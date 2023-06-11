@@ -1,2 +1,2 @@
 # WebsiteInfo
-Check the info from a website a turn into a graph
+Check the info from a website and turn into a graph
